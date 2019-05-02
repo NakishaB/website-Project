@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(223, 165, 235, 0.726);
+}
+h1 {
+	color: Black;
+	margin-left: 20px;
+  font-size: 40px;
+}
+
+p {
+Color: Black;
+	margin-left: 20px;
+  font-family: font-family: "Times New Roman", Times, serif; 
+  font-size: 17px;
+}
+
+.pinterests{
+Color: Black;
+	margin-left: 20px;
+ text-align: left;
+  font-family: font-family: "Times New Roman", Times, serif; 
+  font-size: 17px;
+}
+
+
+
+li {
+Color: Black;
+	margin-left: 40px;
+  text-align: Left;
+  font-family: font-family: "Times New Roman", Times, serif; 
+  font-size: 17px;
+}
+
+img {  /*the images are now centered on a new line if they are made into a 'block element' and use of auto margin*/
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   }
+
+.center {
+  margin: auto;
+  width: 40%;
+  border: 15px solid rgb(131, 129, 129);
+  padding: 10px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+
+
